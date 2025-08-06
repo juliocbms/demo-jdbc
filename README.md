@@ -19,28 +19,6 @@ Este é um projeto de estudo em Java que implementa as operações básicas de u
 - **JDBC API**
 - **MySQL**
 
----
-
-##  Estrutura do Projeto
-/src
-├── application/
-│ └── Main.java
-├── db/
-│ ├── DB.java
-│ ├── DbException.java
-│ └── DbIntegrityException.java
-├── model/
-│ ├── entities/
-│ │ ├── Department.java
-│ │ └── Seller.java
-│ ├── dao/
-│ │ ├── DaoFactory.java
-│ │ ├── DepartmentDao.java
-│ │ └── SellerDao.java
-│ └── dao/impl/
-│ └── SellerDaoJDBC.java
-db.properties 
-
 
 ---
 
